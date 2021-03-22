@@ -19,11 +19,7 @@ namespace TestWeb.Controllers
         {
             return View(db.Product.ToList());
            //123
-           //999999999999999999999999999999999
-           //7777777777
-           //6666666666666
-           //88888888
-           //55555555
+
  
         }
 
