@@ -18,6 +18,7 @@ namespace TestWeb.Controllers
         public ActionResult Index()
         {
             return View(db.Product.ToList());
+            //jjjjjjjjjjjjjj
         }
 
         // GET: Products/Details/5
