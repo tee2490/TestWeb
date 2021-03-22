@@ -20,6 +20,7 @@ namespace TestWeb.Controllers
             return View(db.Product.ToList());
            //123
            //666
+           //7777
         }
 
         // GET: Products/Details/5
