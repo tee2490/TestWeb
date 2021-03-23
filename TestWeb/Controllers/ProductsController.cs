@@ -18,11 +18,7 @@ namespace TestWeb.Controllers
         public ActionResult Index()
         {
             return View(db.Product.ToList());
-           //123
-           //999999999999999999999999999999999
-           //7777777777
-           //888888888888888888888
-           //kkkkkkkkkkkkkkkkkk
+           //111111111111
         }
 
         // GET: Products/Details/5
